@@ -1,0 +1,12 @@
+Flask
+NRCLex
+gunicorn
+Api
+Resource
+flask_restful
+torch @ http://download.pytorch.org/whl/cpu/torch-2.3.1%2Bcpu-cp39-cp39-linux_x86_64.whl
+torchvision @ http://download.pytorch.org/whl/cpu/torchvision-0.18.1%2Bcpu-cp39-cp39-linux_x86_64.whl
+numpy
+pandas
+matplotlib
+
