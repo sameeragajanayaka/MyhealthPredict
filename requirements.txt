@@ -8,5 +8,5 @@ torch @ http://download.pytorch.org/whl/cpu/torch-2.3.1%2Bcpu-cp39-cp39-linux_x8
 torchvision @ http://download.pytorch.org/whl/cpu/torchvision-0.18.1%2Bcpu-cp39-cp39-linux_x86_64.whl
 numpy
 pandas
-matplotlib
+StandardScaler
 
